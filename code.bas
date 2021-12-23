@@ -6,3 +6,4 @@ If u$ = Git Then
    Else Print "Sorry, wrong password"
    End If
 Else Print "Sorry, wrong username"     
+End if
